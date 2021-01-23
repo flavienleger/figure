@@ -98,5 +98,5 @@ def create_heatmap_movie(initial_filename, num_frames, n1, n2, cmap_name='infern
 
 
 # %%
-create_heatmap_movie('/Users/fun/Dropbox/work/recherche/ot/mattwonjunflavien/gf/wgfBFMcodes/data/rho-0000.dat', 80, 512, 512)
+# create_heatmap_movie('/Users/fun/Dropbox/work/recherche/ot/mattwonjunflavien/gf/wgfBFMcodes/data/rho-0000.dat', 80, 512, 512)
 # %%
